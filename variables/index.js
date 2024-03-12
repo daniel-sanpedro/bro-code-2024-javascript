@@ -33,13 +33,15 @@
 // let email = 'daniel123@email.com'
 
 
-// boolean variables are true or false
-let online = false;
-let forSales = true;
-let isStudent = true;
+// // boolean variables are true or false
+// let online = false;
+// let forSale = true;
+// let isStudent = true;
 
 
-// should show as boolean
-console.log(typeof online)
-
+// // should show as boolean
+// console.log(typeof online)
+// console.log(`Is daniel online: ${online}`)
+// console.log(`Is the care for sale: ${forSale}`)
+// console.log(`Enrolled: ${isStudent}`)
 
