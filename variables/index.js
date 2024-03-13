@@ -45,3 +45,11 @@
 // console.log(`Is the care for sale: ${forSale}`)
 // console.log(`Enrolled: ${isStudent}`)
 
+let fullName = "daniel";
+let age = 36;
+let student = false;
+
+document.getElementById("p1").textContent = `my name is ${fullName}`;
+document.getElementById("p2").textContent = age;
+document.getElementById("p3").textContent = student;
+
