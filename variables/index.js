@@ -22,7 +22,6 @@
 
 // console.log(`you are ${age} years old, the price is $${price}  your gpa is:  ${gpa}`)
 
-
 // "" or '' makes it a string
 // let firstName = 'Daniel'
 // let favoriteFood = 'pizza'
@@ -32,12 +31,10 @@
 // console.log(`you like ${favoriteFood}`)
 // let email = 'daniel123@email.com'
 
-
 // // boolean variables are true or false
 // let online = false;
 // let forSale = true;
 // let isStudent = true;
-
 
 // // should show as boolean
 // console.log(typeof online)
@@ -52,4 +49,3 @@ let student = false;
 document.getElementById("p1").textContent = `my name is ${fullName}`;
 document.getElementById("p2").textContent = age;
 document.getElementById("p3").textContent = student;
-
