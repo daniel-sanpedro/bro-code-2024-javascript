@@ -3,7 +3,7 @@
 ## Description
 
 following along with Bro Code to learn JavaScript. I will be using HTML, CSS and JavaScript.
-https://www.youtube.com/watch?v=lfmg-EJ8gm4&t=1872s
+https://youtu.be/lfmg-EJ8gm4?si=0KIHlckkfOCKUMYV
 
 ## Technology
 
