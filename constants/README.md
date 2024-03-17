@@ -7,7 +7,6 @@ practicing constants
 ## Technology
 
 -HTML
--
 -JavaScript
 
 ## Author
