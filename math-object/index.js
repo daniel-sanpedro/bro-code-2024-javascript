@@ -5,9 +5,9 @@
 // console.log(Math.PI)
 // console.log(Math.E)
 
-// 
+//
 // Math.round
-// 
+//
 
 // let x = 3.21;
 // let y = 2;
@@ -20,9 +20,9 @@
 // results as follows:
 // 3
 
-// 
+//
 // Math.floor
-// 
+//
 
 // let x = 3.99;
 // let y = 2;
@@ -35,9 +35,9 @@
 // results as follows:
 // 3
 
-// 
-// Math.ceil 
-// 
+//
+// Math.ceil
+//
 
 // let x = 3.99;
 // let y = 2;
@@ -50,9 +50,9 @@
 // results as follows:
 // 3
 
-// 
+//
 // Math.trunc
-// 
+//
 
 // let x = 3.99;
 // let y = 2;
@@ -65,15 +65,15 @@
 // results as follows:
 // 3
 
-// 
+//
 // Math.pow
-// 
+//
 
 // let x = 3;
 // let y = 2;
 // let z;
 
-// Math.pow is number representing base taken to the power of exponent 
+// Math.pow is number representing base taken to the power of exponent
 //       Returns NaN in one of the following cases: exponent is NaN
 // z = Math.pow(y, x);
 
@@ -82,9 +82,9 @@
 // (x, y) = 9
 // (y, x) = 8
 
-// 
+//
 // Math.sqrt
-// 
+//
 
 // let x = 81;
 // let y = 2;
@@ -97,9 +97,9 @@
 // results as follows:
 // 9
 
-// 
+//
 // Math.log
-// 
+//
 
 // let x = 10;
 // let y = 2;
@@ -109,12 +109,12 @@
 // z = Math.log(x);
 
 // console.log(z);
-// results as follows: 
+// results as follows:
 // 2.30258
 
-// 
+//
 // Math.sin
-// 
+//
 
 // let x = 45;
 // let y = 2;
@@ -124,12 +124,12 @@
 // z = Math.sin(x);
 
 // console.log(z);
-// results as follows: 
+// results as follows:
 // 0.850903
 
-// 
+//
 // Math. cos
-//  
+//
 
 // let x = 45;
 // let y = 2;
@@ -142,9 +142,9 @@
 // results as follows:
 // 0.5253219
 
-// 
+//
 // Math.tan
-// 
+//
 
 // let x = 45;
 // let y = 2;
@@ -157,9 +157,9 @@
 // results as follows:
 // 1.61977
 
-// 
+//
 // Math.abs
-// 
+//
 
 // let x = -3.21;
 // let y = 2;
@@ -172,9 +172,9 @@
 // results as follows:
 // 3.21
 
-// 
+//
 // Math.sign
-// 
+//
 
 // let x = 3.21;
 // let y = 2;
@@ -190,9 +190,9 @@
 // if negative it will return -1
 // will return 0 if the sign is 0
 
-// 
+//
 // Math.max
-// 
+//
 
 let x = 3;
 let y = 2;
@@ -201,7 +201,6 @@ let z = 1;
 // Math.max() static method returns the largest of the numbers given as input parameters, or -Infinity if there are no parameters
 let max = Math.max(x, y, z);
 let min = Math.min(x, y, z);
-
 
 console.log(max);
 // results as follows:

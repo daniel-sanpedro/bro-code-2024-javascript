@@ -1,4 +1,4 @@
-#
+# Random number generator
 
 ## Description
 

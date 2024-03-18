@@ -2,11 +2,12 @@
 
 ## Description
 
-Math object
+Math object built-in object that provides a collection of properties and methods
 
 ## Technology
 
 -HTML
+-CSS
 -JavaScript
 
 ## Author
