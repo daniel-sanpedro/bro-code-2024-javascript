@@ -216,20 +216,18 @@ const mySubmit = document.getElementById("mySubmit");
 const resultElement = document.getElementById("resultElement");
 let age;
 
-mySubmit.onclick = function() {
-
-    age = myText.value;
-    age = Number(age);
-    if (age >= 100) {
-        resultElement.textContent = "too old to enter this site";
-    } else if (age == 0) {
-        resultElement.textContent = "you were just born";
-    } else if (age >= 18) {
-        resultElement.textContent = "you are old enough to enter this site";
-    } else if (age < 0) {
-        resultElement.textContent = "your age cant be below zero";
-    } else {
-        resultElement.textContent = "you must be 18+ to enter this site";
-    }
-    
-}
+mySubmit.onclick = function () {
+  age = myText.value;
+  age = Number(age);
+  if (age >= 100) {
+    resultElement.textContent = "too old to enter this site";
+  } else if (age == 0) {
+    resultElement.textContent = "you were just born";
+  } else if (age >= 18) {
+    resultElement.textContent = "you are old enough to enter this site";
+  } else if (age < 0) {
+    resultElement.textContent = "your age cant be below zero";
+  } else {
+    resultElement.textContent = "you must be 18+ to enter this site";
+  }
+};

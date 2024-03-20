@@ -1,4 +1,4 @@
-/* CHECKED PROPERTY */
+/* TERNARY OPERATOR */
 
 body {
   background: #555555;
@@ -7,7 +7,4 @@ body {
   text-align: center;
   margin: 0;
   margin-top: 0;
-}
-#mySubmit {
-  font-size: 1em;
 }

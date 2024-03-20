@@ -1,25 +1,25 @@
 #countLabel {
-    display: block;
-    text-align: center;
-    /* 10em = 10x normal */
-    font-size: 10em;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  #btnContainer {
-    text-align: center;
-  }
-  
-  .buttons {
-    padding: 10px 20px;
-    font-size: 1.5em;
-    color: black;
-    background-color: skyblue;
-    border-radius: 5px;
-    /* pointer converts into pointer over button */
-    cursor: pointer;
-    /* hover color goes darker in 0.25s */
-    transition: background-color 0.25s;
-  }
-  .buttons:hover {
-    background-color: dodgerblue;
-  }
+  display: block;
+  text-align: center;
+  /* 10em = 10x normal */
+  font-size: 10em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#btnContainer {
+  text-align: center;
+}
+
+.buttons {
+  padding: 10px 20px;
+  font-size: 1.5em;
+  color: black;
+  background-color: skyblue;
+  border-radius: 5px;
+  /* pointer converts into pointer over button */
+  cursor: pointer;
+  /* hover color goes darker in 0.25s */
+  transition: background-color 0.25s;
+}
+.buttons:hover {
+  background-color: dodgerblue;
+}

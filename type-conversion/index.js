@@ -16,9 +16,9 @@
 
 // this will turn a string into a number
 
-// 
+//
 // strings
-// 
+//
 
 // let x = "pizza";
 // let y = "pizza";
@@ -42,9 +42,9 @@
 //      thats why value type is still pizza and the data type is string
 // converting the word pizza into a boolean returns true and data type is still boolean.
 
-// 
+//
 // numbers
-// 
+//
 
 // let y = "0";
 // let x = "0";
@@ -67,9 +67,9 @@
 // y is 0 but is treated as a string
 // z returns true
 
-// 
+//
 // boolean
-// 
+//
 
 // let y = "";
 // let x = "";
@@ -90,9 +90,9 @@
 
 // a reason to typecast a string as a boolean to check and see if user input is inputted correctly
 
-// 
+//
 // declared but not assigned a value
-// 
+//
 
 let y;
 let x;

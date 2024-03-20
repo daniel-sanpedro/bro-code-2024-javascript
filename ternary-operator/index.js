@@ -1,0 +1,17 @@
+// TERNARY OPERATOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
