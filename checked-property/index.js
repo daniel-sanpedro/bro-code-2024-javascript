@@ -22,7 +22,7 @@ mySubmit.onclick = function () {
   } else if (masterCardBtn.checked) {
     paymentResult.textContent = "you are paying with MasterCard";
   } else if (payPalBtn.checked) {
-    payPalBtn.textContent = "you are paying with PayPal";
+    paymentResult.textContent = "you are paying with PayPal";
   } else {
     paymentResult.textContent = "you are not paying";
   }
