@@ -1,9 +1,5 @@
 // TERNARY OPERATOR
 
-// ternary operator = a shortcut to if{} and else{} statements
-//                    help to assign a variable based on a condition
-//                    condition ? codeIfTrue : codeIfFalse;
-
 //
 // if else
 //
