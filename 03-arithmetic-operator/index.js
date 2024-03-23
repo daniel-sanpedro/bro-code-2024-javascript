@@ -1,4 +1,4 @@
-// 
+// ARITHMETIC OPERATOR
 
 // i am a teacher and have a group of students
 // let students = 30;

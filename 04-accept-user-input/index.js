@@ -1,9 +1,9 @@
-// how to accept user input
+// HOW TO ACCEPT USER INPUT
 
-// 1. easy way = windows prompt
-// 2. professional way = HTML textbox
-
+//
 // easy way
+//
+
 // declare all variables to be used
 
 // let username;
@@ -12,7 +12,9 @@
 
 // console.log(username)
 
+//
 // professional way
+//
 
 document.getElementById("mySubmit").onclick = function () {
   username = document.getElementById("myText").value;

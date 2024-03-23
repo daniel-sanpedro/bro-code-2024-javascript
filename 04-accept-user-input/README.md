@@ -2,7 +2,10 @@
 
 ## Description
 
-How to accept a user input
+    how to accept user input
+
+        1. easy way = windows prompt
+        2. professional way = HTML textbox
 
 ## Technology
 
