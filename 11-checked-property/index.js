@@ -1,8 +1,5 @@
 // CHECKED PROPERTY
 
-// .checked = property that determines the checked state of an
-//            HTML checkbox or radio button element
-
 const myCheckBox = document.getElementById("myCheckBox");
 const visaBtn = document.getElementById("visaBtn");
 const masterCardBtn = document.getElementById("masterCardBtn");
