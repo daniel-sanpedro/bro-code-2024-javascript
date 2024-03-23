@@ -2,6 +2,8 @@
 
 ## Description
 
+    string methods = allows you to manipulate and work with text (strings)
+
 ## Technology
 
 -HTML
