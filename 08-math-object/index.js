@@ -1,6 +1,4 @@
-// Math object
-// Math = built-in object that provides a
-//        collection of properties and methods
+// MATH OBJECTS
 
 // console.log(Math.PI)
 // console.log(Math.E)

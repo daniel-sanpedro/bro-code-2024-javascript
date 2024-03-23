@@ -2,7 +2,8 @@
 
 ## Description
 
-Math object built-in object that provides a collection of properties and methods
+    Math = built-in object that provides a
+           collection of properties and methods
 
 ## Technology
 
