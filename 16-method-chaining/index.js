@@ -1,16 +1,13 @@
 // METHOD CHAINING
 
-// Method Chaining = calling one method after another
-//                    in one continuous line of code
-
 // creating a prompt to ask for a username
 let username = window.prompt("enter your username: ");
 
-//  
+//
 // NO METHOD CHAINING
-// 
+//
 
-// using trim method to remove spaces 
+// using trim method to remove spaces
 // username = username.trim();
 
 // this will grab the first letter of the username and capitalize it
@@ -32,9 +29,9 @@ let username = window.prompt("enter your username: ");
 
 // console.log(username);
 
-// 
+//
 // METHOD CHAINING
-// 
+//
 
 // username = username.trim();
 // let letter = username.charAt(0);
@@ -46,40 +43,7 @@ let username = window.prompt("enter your username: ");
 
 // taking from the example above going from .trim() instead of ending ; link right into .charAt() then .toUpperCase()
 // + .slice(1) everything after is targeted .toLowerCase() lowercase everything else
-username = username.trim().charAt(0).toUpperCase() + username.slice(1).toLowerCase();
+username =
+  username.trim().charAt(0).toUpperCase() + username.slice(1).toLowerCase();
 
-console.log(username)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+console.log(username);
