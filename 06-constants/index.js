@@ -1,4 +1,4 @@
-// const = a variable that can't be changed
+// CONSTANTS
 
 const PI = 3.14159;
 let radius;
