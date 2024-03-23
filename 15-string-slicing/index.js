@@ -1,10 +1,5 @@
 // STRING SLICING
 
-// string slicing = creating a substring
-//                  from a portion of another string
-
-//                  string.slice(start, end)
-
 // const fullName = "daniel san pedro";
 
 // let firstName = fullName.slice(0, 6);
@@ -23,7 +18,7 @@
 // console.log(lastName)
 
 // results as follows:
-// daniel 
+// daniel
 // san pedro
 
 // const fullName = "daniel san pedro";
@@ -75,29 +70,9 @@ const email = "daniel@email.com";
 let username = email.slice(0, email.indexOf("@"));
 let extension = email.slice(email.indexOf("@") + 1);
 
-
 console.log(username);
 console.log(extension);
 
 // results as follows:
 // daniel
 // email.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
