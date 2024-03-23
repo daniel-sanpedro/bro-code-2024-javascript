@@ -2,6 +2,8 @@
 
 ## Description
 
+    switch = can be an efficient replacement to many else if statements
+
 ## Technology
 
 -HTML

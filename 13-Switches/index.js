@@ -1,7 +1,5 @@
 // SWITCHES
 
-// switch = can be an efficient replacement to many else if statements
-
 // let day = 1;
 
 // if (day == 1) {
