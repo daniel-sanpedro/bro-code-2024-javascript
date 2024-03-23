@@ -1,7 +1,5 @@
 // LOGICAL OPERATORS
 
-// LOGICAL OPERATORS
-
 // const temp = 20;
 
 // if (temp > 0) {
