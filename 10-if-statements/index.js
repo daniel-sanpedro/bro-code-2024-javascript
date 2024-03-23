@@ -1,7 +1,4 @@
-// If statements
-
-// IF STATEMENTS = if a condition is true, excute some code
-//                 if not, do something else
+// IF STATEMENTS
 
 // let age = 25;
 
