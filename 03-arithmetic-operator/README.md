@@ -2,7 +2,9 @@
 
 ## Description
 
-Understanding and practicing arithmetic operator
+    arithmetic operators = operands (values, variables, etc.)
+                           operators (+ - * /)
+                           ex. 11 = x + 5;
 
 ## Technology
 

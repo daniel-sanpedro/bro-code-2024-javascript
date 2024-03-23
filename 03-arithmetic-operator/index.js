@@ -1,6 +1,4 @@
-// arithmetic operators = operands (values, variables, etc.)
-//                        operators (+ - * /)
-//                        ex. 11 = x + 5;
+// 
 
 // i am a teacher and have a group of students
 // let students = 30;
