@@ -1,4 +1,4 @@
-# Bro Code 2024
+# Bro Code 2024 JAVASCRIPT
 
 ## Description
 
