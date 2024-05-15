@@ -1,4 +1,4 @@
-/*  */
+/* DICE ROLLER PROGRAM */
 
 body {
   background: #555555;
@@ -7,4 +7,35 @@ body {
   text-align: center;
   margin: 0;
   margin-top: 0;
+}
+
+#container {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+button {
+  font-size: 1.5rem;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  background-color: aqua;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: blue;
+}
+button:active {
+  background-color: darkblue;
+}
+
+input {
+  font-size: 2rem;
+  width: 150px;
+  text-align: center;
+  font-weight: bold;
 }
