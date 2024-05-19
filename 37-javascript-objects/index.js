@@ -28,12 +28,12 @@ console.log(person1.firstName);
 console.log(person1.lastName);
 console.log(person1.age);
 console.log(person1.isEmployed);
-console.log(person1.sayHello);
-console.log(person1.sayBye);
+person1.sayHello();
+person1.sayBye();
 
 console.log(person2.firstName);
 console.log(person2.lastName);
 console.log(person2.age);
 console.log(person2.isEmployed);
-console.log(person2.sayHello);
-console.log(person2.sayBye);
+person2.sayHello();
+person2.sayBye();
