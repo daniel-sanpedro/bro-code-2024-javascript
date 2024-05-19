@@ -5,8 +5,12 @@ const person1 = {
   lastName: "Squarepants",
   age: 30,
   isEmployed: true,
-  sayHello: function(){console.log("Hi, I am Spongebob!")};
-  sayBye: function(){console.log("Goodbye")};
+  sayHello: function () {
+    console.log("Hi, I am Spongebob!");
+  },
+  sayBye: function () {
+    console.log("Goodbye");
+  },
 };
 
 const person2 = {
@@ -14,8 +18,10 @@ const person2 = {
   lastName: "Starfish",
   age: 42,
   isEmployed: false,
-  sayHello: () => console.log("Hi, I am Patrick!");
-  sayBye: function(){console.log("Goodbye")};
+  sayHello: () => console.log("Hi, I am Patrick!"),
+  sayBye: function () {
+    console.log("Goodbye");
+  },
 };
 
 console.log(person1.firstName);
